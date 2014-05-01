@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         =  'QuickBlox'
-  s.version      =  '1.8.2'
+  s.version      =  '1.8.4'
   s.summary      =  'Quickblox iOS SDK'
   s.homepage     =  'https://github.com/QuickBlox/quickblox-ios-sdk'
   s.author       =  { 'Gualterio Blanco' => 'dev@metodowhite.com' }
